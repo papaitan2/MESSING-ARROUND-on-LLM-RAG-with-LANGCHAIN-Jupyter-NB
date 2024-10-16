@@ -82,3 +82,22 @@ This document serves as an introductory guide to understanding the fine-tuning o
 ----------------------------
 
 
+
+
+
+
+
+
+
+
+
+
+#LLM
+#LargeLanguageModels
+#AI
+#ArtificialIntelligence
+#MachineLearning
+#NLP
+#NaturalLanguageProcessing
+#RAG
+#RetrievalAugmentedGeneration
