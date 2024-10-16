@@ -42,6 +42,13 @@ This document serves as an introductory guide to understanding the fine-tuning o
 <br>
 <br>
 
+![01_document_loading-1](https://github.com/user-attachments/assets/2400661e-264c-4a34-aafb-4bb62b7c15d1)
+
+![01_document_loading-2](https://github.com/user-attachments/assets/205f97b4-fc19-4670-affa-868224025e2a)
+
+![01_document_loading-3](https://github.com/user-attachments/assets/2ae5bfec-8d4c-4ee7-a4ba-af061dfc5c4a)
+
+![01_document_loading-4](https://github.com/user-attachments/assets/46cf5e27-608a-400e-9f9f-267169831bf1)
 
 
 
