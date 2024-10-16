@@ -7,6 +7,20 @@
 
 ## Fine-tuning LLMs with your own documents: An Introduction
 
+
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+
+
+==++++++==
+# 1 - DOCUMENT_LOADING
+==++++++==
+---
+<br>
+<br>
+
 This document offers an overview of fine-tuning Large Language Models (LLMs) using your own documents, an essential component in retrieval augmented generation (RAG).
 
 **What is retrieval augmented generation (RAG)?**
@@ -57,3 +71,12 @@ This document serves as an introductory guide to understanding the fine-tuning o
 <br>
 <br>
 <br>
+
+
+
+----------------------------
+----------------------------
+----------------------------
+----------------------------
+
+
